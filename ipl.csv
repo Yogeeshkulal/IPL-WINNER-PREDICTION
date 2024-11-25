@@ -18,4 +18,4 @@ match_id,batting_team,bowling_team,city,score,target,overs,wickets,result
 17,Sunrisers Hyderabad,Mumbai Indians,Hyderabad,150,160,20,8,Win
 18,Mumbai Indians,Royal Challengers Bangalore,Mumbai,180,190,20,4,Win
 19,Royal Challengers Bangalore,Kolkata Knight Riders,Bangalore,165,175,20,3,Lose
-20,Kolkata Knight Riders,Kings XI Punjab,Kolkata,175,185,20,5,Lose
+
