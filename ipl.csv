@@ -1,0 +1,21 @@
+match_id,batting_team,bowling_team,city,score,target,overs,wickets,result
+1,Sunrisers Hyderabad,Mumbai Indians,Hyderabad,150,160,20,8,Lose
+2,Mumbai Indians,Royal Challengers Bangalore,Bangalore,160,170,20,5,Win
+3,Royal Challengers Bangalore,Kolkata Knight Riders,Mumbai,180,190,20,6,Win
+4,Kolkata Knight Riders,Kings XI Punjab,Kolkata,170,180,20,4,Win
+5,Kings XI Punjab,Chennai Super Kings,Delhi,150,160,20,7,Lose
+6,Chennai Super Kings,Rajasthan Royals,Chennai,200,210,20,3,Win
+7,Rajasthan Royals,Delhi Capitals,Jaipur,160,170,20,6,Lose
+8,Delhi Capitals,Sunrisers Hyderabad,Ahmedabad,140,150,20,9,Win
+9,Sunrisers Hyderabad,Mumbai Indians,Hyderabad,175,180,20,4,Win
+10,Mumbai Indians,Royal Challengers Bangalore,Mumbai,145,160,20,7,Lose
+11,Royal Challengers Bangalore,Kolkata Knight Riders,Bangalore,185,190,20,5,Win
+12,Kolkata Knight Riders,Kings XI Punjab,Kolkata,160,175,20,6,Lose
+13,Kings XI Punjab,Chennai Super Kings,Delhi,155,165,20,4,Win
+14,Chennai Super Kings,Rajasthan Royals,Chennai,190,200,20,3,Win
+15,Rajasthan Royals,Delhi Capitals,Jaipur,165,175,20,7,Lose
+16,Delhi Capitals,Sunrisers Hyderabad,Ahmedabad,170,180,20,5,Lose
+17,Sunrisers Hyderabad,Mumbai Indians,Hyderabad,150,160,20,8,Win
+18,Mumbai Indians,Royal Challengers Bangalore,Mumbai,180,190,20,4,Win
+19,Royal Challengers Bangalore,Kolkata Knight Riders,Bangalore,165,175,20,3,Lose
+20,Kolkata Knight Riders,Kings XI Punjab,Kolkata,175,185,20,5,Lose
